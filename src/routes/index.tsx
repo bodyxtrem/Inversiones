@@ -131,7 +131,8 @@ function Home() {
             Nuestros pilares
           </p>
           <h2 className="font-verdana text-4xl md:text-5xl text-teal-deep">
-            En Grupo Inventado, nuestra prioridad son las personas
+            Detrás de cada operación hay una persona.
+            <span className="font-verdana">Esa es nuestra prioridad.</span>
           </h2>
           <div className="mt-16 grid md:grid-cols-3 gap-8">
             {[
