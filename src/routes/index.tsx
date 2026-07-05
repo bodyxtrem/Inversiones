@@ -85,11 +85,13 @@ function Home() {
               asesoramiento jurídico, financiación y gestión patrimonial para
               ofrecer soluciones integrales, rápidas y con todas las garantías
               legales.
+
+              Diseñamos soluciones personalizadas para situaciones que requieren rapidez, seguridad y experiencia.
             </p>
             <ul className="mt-8 space-y-3">
               {[
-                "Contrato de arras en 48 horas",
-                "Adelantamos hasta el 50% del precio de venta",
+                "Contrato de arras en 48-72 horas",
+                "Obtén hasta el 50 % del valor de venta de tu inmueble antes de venderlo",
                 "Pagamos tu hipoteca mientras vendes",
                 "Adelantamos los gastos de tu herencia",
               ].map((item) => (
@@ -100,7 +102,7 @@ function Home() {
               ))}
             </ul>
             <p className="mt-6 font-serif italic text-2xl text-teal">
-              Y no pagas hasta que vendas.
+              Sin costes iniciales. Nuestros honorarios solo se abonan cuando la operación se completa con éxito.
             </p>
           </div>
           <div className="relative">
