@@ -6,9 +6,9 @@ import { useState } from "react";
 export const Route = createFileRoute("/contacto")({
   head: () => ({
     meta: [
-      { title: "Contacto — Cisum Group" },
-      { name: "description", content: "Contacta con Cisum Group en Barcelona. Estudio gratuito y sin compromiso en 48 horas." },
-      { property: "og:title", content: "Contacto — Cisum Group" },
+      { title: "Contacto — Inventado Group" },
+      { name: "description", content: "Contacta con Inventado Group en Barcelona. Estudio gratuito y sin compromiso en 48 horas." },
+      { property: "og:title", content: "Contacto — Inventado Group" },
       { property: "og:description", content: "Hablemos de tu proyecto." },
     ],
   }),
@@ -35,7 +35,7 @@ function Contact() {
                 </span>
                 <div>
                   <p className="font-medium">Dirección</p>
-                  <p className="text-muted-foreground">Av. Diagonal 407 1º 2ª, 08008 Barcelona</p>
+                  <p className="text-muted-foreground">Av. Diagonal 539 1º 1ª, 08029 Barcelona</p>
                 </div>
               </li>
               <li className="flex gap-4">
@@ -44,7 +44,7 @@ function Contact() {
                 </span>
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-muted-foreground">info@cisumgroup.com</p>
+                  <p className="text-muted-foreground">info@inventadogroup.com</p>
                 </div>
               </li>
               <li className="flex gap-4">
