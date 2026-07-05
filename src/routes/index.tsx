@@ -40,7 +40,7 @@ function Home() {
         <div className="absolute inset-0 bg-teal-deep/70" />
         <div className="relative z-10 text-center px-6 max-w-5xl">
           <p className="text-gold uppercase tracking-[0.4em] text-xs mb-6">
-            Grupo 
+            Grupo Inventado
           </p>
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.05]">
             Somos un<br />
