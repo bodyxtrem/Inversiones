@@ -9,13 +9,13 @@ import { SiteLayout } from "@/components/site-layout";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Cisum Group — Multifamily Office Inmobiliario en Barcelona" },
+      { title: "Inventado Group — Multifamily Office Inmobiliario en Barcelona" },
       {
         name: "description",
         content:
           "Más de 20 años ofreciendo soluciones inmobiliarias y financieras: adelantamos hasta el 50% del precio de venta, pagamos tu hipoteca y no cobras hasta vender.",
       },
-      { property: "og:title", content: "Cisum Group — Multifamily Office" },
+      { property: "og:title", content: "Inventado Group — Multifamily Office" },
       {
         property: "og:description",
         content: "Soluciones inmobiliarias revolucionarias, efectivas y rápidas.",
@@ -40,7 +40,7 @@ function Home() {
         <div className="absolute inset-0 bg-teal-deep/70" />
         <div className="relative z-10 text-center px-6 max-w-5xl">
           <p className="text-gold uppercase tracking-[0.4em] text-xs mb-6">
-            Grupo Cisum
+            Grupo 
           </p>
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.05]">
             Somos un<br />
@@ -81,7 +81,7 @@ function Home() {
               No somos una agencia inmobiliaria cualquiera
             </h2>
             <p className="mt-6 text-muted-foreground leading-relaxed">
-              En Cisum Real Estate, además de nuestro departamento inmobiliario,
+              En Inventado Real Estate, además de nuestro departamento inmobiliario,
               contamos con un equipo legal con más de 20 años de experiencia en
               el sector. Ofrecemos soluciones revolucionarias, efectivas y
               rápidas.
@@ -127,7 +127,7 @@ function Home() {
             Nuestros pilares
           </p>
           <h2 className="font-serif text-4xl md:text-5xl text-teal-deep">
-            En Grupo Cisum, nuestra prioridad son las personas
+            En Grupo Inventado, nuestra prioridad son las personas
           </h2>
           <div className="mt-16 grid md:grid-cols-3 gap-8">
             {[
@@ -167,7 +167,7 @@ function Home() {
         <div className="mx-auto max-w-6xl grid lg:grid-cols-2 gap-16 items-center">
           <img
             src={teamImg}
-            alt="Equipo Cisum reunido"
+            alt="Equipo Inventado reunido"
             width={1280}
             height={960}
             loading="lazy"
@@ -239,7 +239,7 @@ function Home() {
                 Soluciones a medida para cada cliente
               </h2>
               <p className="mt-6 text-muted-foreground leading-relaxed">
-                Grupo Cisum es sinónimo de garantía y eficacia. A través de
+                Grupo Inventado es sinónimo de garantía y eficacia. A través de
                 nuestra experiencia ofrecemos diferentes servicios a nuestros
                 clientes para resolver de forma óptima, eficiente y sin riesgos.
               </p>
