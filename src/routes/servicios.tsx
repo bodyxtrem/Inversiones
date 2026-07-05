@@ -5,9 +5,9 @@ import servicesImg from "@/assets/services.jpg";
 export const Route = createFileRoute("/servicios")({
   head: () => ({
     meta: [
-      { title: "Servicios — Cisum Group" },
+      { title: "Servicios — Inventado Group" },
       { name: "description", content: "Venta de inmueble, herencias, embargos y renta vitalicia. Soluciones inmobiliarias a medida." },
-      { property: "og:title", content: "Servicios — Cisum Group" },
+      { property: "og:title", content: "Servicios — Inventado Group" },
       { property: "og:description", content: "Soluciones inmobiliarias a medida." },
     ],
   }),
