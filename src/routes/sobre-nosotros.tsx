@@ -5,9 +5,9 @@ import teamImg from "@/assets/team-meeting.jpg";
 export const Route = createFileRoute("/sobre-nosotros")({
   head: () => ({
     meta: [
-      { title: "Sobre nosotros — Cisum Group" },
-      { name: "description", content: "Conoce Grupo Cisum: más de 20 años ofreciendo soluciones inmobiliarias y legales personalizadas." },
-      { property: "og:title", content: "Sobre nosotros — Cisum Group" },
+      { title: "Sobre nosotros — Inventado Group" },
+      { name: "description", content: "Conoce Grupo Inventado: más de 20 años ofreciendo soluciones inmobiliarias y legales personalizadas." },
+      { property: "og:title", content: "Sobre nosotros — Inventado Group" },
       { property: "og:description", content: "Multifamily office con experiencia y confianza." },
     ],
   }),
@@ -24,11 +24,11 @@ function About() {
       />
       <section className="py-20 px-6">
         <div className="mx-auto max-w-6xl grid lg:grid-cols-2 gap-16 items-center">
-          <img src={teamImg} alt="Equipo Cisum" width={1280} height={960} loading="lazy" className="rounded-lg shadow-2xl w-full h-[500px] object-cover" />
+          <img src={teamImg} alt="Equipo Inventado" width={1280} height={960} loading="lazy" className="rounded-lg shadow-2xl w-full h-[500px] object-cover" />
           <div>
             <h2 className="font-serif text-4xl text-teal-deep">Nuestra prioridad son las personas</h2>
             <p className="mt-6 text-muted-foreground leading-relaxed">
-              En Grupo Cisum trabajamos de forma personalizada. Cada cliente
+              En Grupo Inventado trabajamos de forma personalizada. Cada cliente
               cuenta con un agente dedicado que acompaña su caso desde el
               primer contacto hasta la firma en notaría, garantizando cercanía,
               transparencia y resultados.
