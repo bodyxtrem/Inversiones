@@ -43,8 +43,8 @@ function Home() {
             Grupo Inventado
           </p>
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.05]">
-            Somos un<br />
-            <span className="italic">multifamily office</span>
+            Especialistas en<br />
+            <span className="italic">soluciones inmobiliarias estratégicas</span>
           </h1>
           <p className="mt-8 text-lg md:text-xl text-white/85 max-w-2xl mx-auto">
             Más de 20 años de experiencia acompañando a familias e inversores
