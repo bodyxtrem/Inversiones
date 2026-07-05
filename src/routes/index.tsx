@@ -85,8 +85,10 @@ function Home() {
               asesoramiento jurídico, financiación y gestión patrimonial para
               ofrecer soluciones integrales, rápidas y con todas las garantías
               legales.
+            </p>
 
-              Diseñamos soluciones personalizadas para situaciones que requieren rapidez, seguridad y experiencia.
+            <p className="mt-6 text-muted-foreground leading-relaxed">
+                Diseñamos soluciones personalizadas para situaciones que requieren rapidez, seguridad y experiencia.
             </p>
             <ul className="mt-8 space-y-3">
               {[
