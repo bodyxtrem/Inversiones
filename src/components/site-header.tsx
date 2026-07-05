@@ -34,9 +34,9 @@ export function SiteHeader({ transparent = false }: { transparent?: boolean }) {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <Link to="/" className="flex items-center gap-3 text-white">
           <span className="flex h-10 w-10 items-center justify-center rounded-full border border-gold text-gold font-serif text-lg">
-            CG
+            IG
           </span>
-          <span className="font-serif text-xl tracking-widest">CISUM GROUP</span>
+          <span className="font-serif text-xl tracking-widest">INVENTADO GROUP</span>
         </Link>
 
         <nav className="hidden lg:flex items-center gap-8">
