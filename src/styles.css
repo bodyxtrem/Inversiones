@@ -33,6 +33,7 @@
   --color-gold: var(--gold);
   --font-serif: "Cormorant Garamond", ui-serif, Georgia, serif;
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-verdana: "Verdana", Geneva, ui-sans-serif, system-ui, sans-serif;
 }
 
 :root {
