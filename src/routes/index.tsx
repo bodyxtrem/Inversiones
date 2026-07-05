@@ -75,16 +75,16 @@ function Home() {
         <div className="mx-auto max-w-6xl grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <p className="text-teal uppercase tracking-[0.3em] text-xs mb-4">
-              Más de 20 años de experiencia
+              Más de 10 años resolviendo operaciones inmobiliarias complejas con éxito
             </p>
             <h2 className="font-verdana text-4xl md:text-5xl text-teal-deep leading-tight">
-              No somos una agencia inmobiliaria cualquiera
+              En Grupo Inventado vamos mucho más allá de la intermediación inmobiliaria tradicional.
             </h2>
             <p className="mt-6 text-muted-foreground leading-relaxed">
-              En Inventado Real Estate, además de nuestro departamento inmobiliario,
-              contamos con un equipo legal con más de 20 años de experiencia en
-              el sector. Ofrecemos soluciones revolucionarias, efectivas y
-              rápidas.
+              Reunimos en un mismo equipo especialistas en inversión inmobiliaria, 
+              asesoramiento jurídico, financiación y gestión patrimonial para
+              ofrecer soluciones integrales, rápidas y con todas las garantías
+              legales.
             </p>
             <ul className="mt-8 space-y-3">
               {[
