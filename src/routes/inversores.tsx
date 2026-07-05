@@ -5,9 +5,9 @@ import { ShieldCheck, TrendingUp, Timer } from "lucide-react";
 export const Route = createFileRoute("/inversores")({
   head: () => ({
     meta: [
-      { title: "Inversores — Cisum Group" },
+      { title: "Inversores — Inventado Group" },
       { name: "description", content: "Rentabilidades superiores al 20% con operaciones garantizadas contra el propio inmueble." },
-      { property: "og:title", content: "Inversores — Cisum Group" },
+      { property: "og:title", content: "Inversores — Inventado Group" },
       { property: "og:description", content: "Alta rentabilidad, bajo riesgo y retornos en menos de 12 meses." },
     ],
   }),
@@ -42,7 +42,7 @@ function Investors() {
           <p className="mt-6 text-muted-foreground leading-relaxed">
             El sector inmobiliario en España ofreció un 6,5% de rentabilidad en
             2022; en Cataluña, donde se concentra la mayor parte de nuestras
-            operaciones, alcanzó el 6,8%. Grupo Cisum lleva más de 20 años
+            operaciones, alcanzó el 6,8%. Grupo Inventado lleva más de 20 años
             ofreciendo a sus inversores rentabilidades superiores al 20% con
             retornos en periodos inferiores a 12 meses.
           </p>
