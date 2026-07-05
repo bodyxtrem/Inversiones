@@ -26,7 +26,7 @@ const navContent = {
     { to: "/servicios", label: "Services" },
     { to: "/contacto", label: "Contact" },
   ],
-} as const;
+};
 
 export function SiteHeader({ transparent = false }: { transparent?: boolean }) {
   const [scrolled, setScrolled] = useState(false);

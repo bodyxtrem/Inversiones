@@ -42,7 +42,7 @@ const content = {
     ],
     rights: "Tous droits réservés.",
   },
-} as const;
+};
 
 export function SiteFooter() {
   const t = usePick(content);
