@@ -126,7 +126,7 @@ function Home() {
           <p className="text-teal uppercase tracking-[0.3em] text-xs mb-4">
             Nuestros pilares
           </p>
-          <h2 className="font-serif text-4xl md:text-5xl text-teal-deep">
+          <h2 className="font-verdana text-4xl md:text-5xl text-teal-deep">
             En Grupo Inventado, nuestra prioridad son las personas
           </h2>
           <div className="mt-16 grid md:grid-cols-3 gap-8">
