@@ -117,8 +117,8 @@ function Home() {
               className="rounded-lg shadow-2xl w-full h-[520px] object-cover"
             />
             <div className="absolute -bottom-6 -left-6 bg-teal-deep text-white p-6 rounded-lg shadow-xl max-w-xs hidden md:block">
-              <p className="font-serif text-4xl text-gold">+20</p>
-              <p className="text-sm mt-1">años acompañando a nuestros clientes</p>
+              <p className="font-serif text-4xl text-gold">+ de 20 años</p>
+              <p className="text-sm mt-1">acompañando a nuestros clientes</p>
             </div>
           </div>
         </div>
